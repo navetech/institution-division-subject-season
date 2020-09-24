@@ -1,5 +1,5 @@
-### **Subject** *in* **Season**<br>
-*from*<br>
-## **[Division](https://cs50.harvard.edu/web/2020/)**<br>
+### **Assignments** *in* **Year**<br>
 *of*<br>
-# **[Organization](https://www.harvard.edu/)**<br>
+## **[Course](https://cs50.harvard.edu/web/2020/)**<br>
+*from*<br>
+# **[Provider](https://www.harvard.edu/)**<br>
