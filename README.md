@@ -1,7 +1,7 @@
-### **Assignments** *in* **Year**<br>
-*of*<br>
-# **[Course](https://cs50.harvard.edu/web/2020/)**<br>
-*by*<br>
-## **[Provider](https://www.harvard.edu/)**<br>
-*via*<br>
-### **[MOOC Platform](https://www.coursera.org/learn/html)**<br>
+### **Assignments** *released in* **Year**<br><br>
+*for the course*<br>
+# **[Course](https://cs50.harvard.edu/web/2020/)**<br><br>
+*offered by*<br>
+## **[Provider](https://www.harvard.edu/)**<br><br>
+*taken on*<br>
+### **[MOOC Platform](https://www.coursera.org/learn/html)**<br><br>
