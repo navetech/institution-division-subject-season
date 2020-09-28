@@ -1,4 +1,4 @@
-### **Assignments** *released in* **Year**<br><br>
+**Assignments** *worked on in* **Year**<br><br>
 *for the course*<br>
 # **[Course](https://cs50.harvard.edu/web/2020/)**<br><br>
 *offered by*<br>
